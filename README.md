@@ -101,13 +101,5 @@ This project helped in understanding:
 
 ---
 
-## Future Improvements
-- Hyperparameter tuning
-- Deployment using Streamlit/Flask
-- Real-time prediction interface
-- Model optimization
-
----
-
 ## Author
 Suraj
